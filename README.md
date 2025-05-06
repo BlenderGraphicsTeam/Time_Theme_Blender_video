@@ -48,3 +48,20 @@ Below is a curated list of BlenderKit models used across the scenes. These help 
 | **Phil** | Adult male character | [Phil](https://www.blenderkit.com/get-blenderkit/4165ed71-c34f-42d4-8424-1e2cefcab308/) |
 
 ---
+
+## ⏱️ Timeline Breakdown
+
+| Segment          | Duration |
+| ---------------- | -------- |
+| Clock Intro      | 4 sec    |
+| Scene 1: Spring  | 8 sec    |
+| Clock Transition | 3 sec    |
+| Scene 2: Summer  | 7 sec    |
+| Clock Transition | 4 sec    |
+| Scene 3: Autumn  | 7 sec    |
+| Clock Transition | 5 sec    |
+| Scene 4: Winter  | 7 sec    |
+
+| ➤ **Total**      | **45 sec** |
+
+---
