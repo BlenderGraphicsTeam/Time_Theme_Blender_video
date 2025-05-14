@@ -63,9 +63,23 @@ Below is a curated list of BlenderKit models used across the scenes. These help 
 | Scene 4: Winter (Main)        | 66    | 24       | 90  | Abandonment and memory                |
 | Camera returns to Spring Pose | 90    | 0        | 90  | Reset to earlier camera frame         |
 | Summer Flashback              | 90    | 8        | 98  | Short summer memory                   |
-| Return to Winter              | 98    | 7        | 105 | Back to final winter state            |
+| Return to Winter              | 98    | 8        | 105 | Back to final winter state            |
 
 
 | ➤ **Total**      | **105 sec** |
+
+| Segment                       | Start | Duration | End   | Notes                                 |
+| ----------------------------- | ----- | -------- | ----- | ------------------------------------- |
+| Clock Intro                   | 0     | 120      | 120   | Zoom in on the clock                  |
+| Scene 1: Spring               | 121   | 360      | 481   | Lively environment, old-style objects |
+| Clock Transition 1            | 482   | 120      | 602   | Slow clock zoom                       |
+| Scene 2: Summer               | 603   | 360      | 963   | Modern elements begin to appear       |
+| Clock Transition 2            | 964   | 120      | 1084  | Clock fast-forward                    |
+| Scene 3: Autumn               | 1085  | 360      | 1445  | Slight decay, older atmosphere        |
+| Clock Transition 3            | 1446  | 144      | 1590  | Clock stops                           |
+| Scene 4: Winter (Main)        | 1591  | 576      | 2167  | Abandonment and memory                |
+| Camera returns to Spring Pose | 2119  |  48      | 2167  | Reset to earlier camera frame         |
+| Summer Flashback              | 2168  | 192      | 2360  | Short summer memory                   |
+| Return to Winter              | 2361  | 193      | 2554  | Back to final winter state            |
 
 ---
