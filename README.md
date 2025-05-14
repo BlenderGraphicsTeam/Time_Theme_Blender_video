@@ -51,17 +51,21 @@ Below is a curated list of BlenderKit models used across the scenes. These help 
 
 ## ⏱️ Timeline Breakdown
 
-| Segment          | Duration |
-| ---------------- | -------- |
-| Clock Intro      | 4 sec    |
-| Scene 1: Spring  | 8 sec    |
-| Clock Transition | 3 sec    |
-| Scene 2: Summer  | 7 sec    |
-| Clock Transition | 4 sec    |
-| Scene 3: Autumn  | 7 sec    |
-| Clock Transition | 5 sec    |
-| Scene 4: Winter  | 7 sec    |
+| Segment                       | Start | Duration | End | Notes                                 |
+| ----------------------------- | ----- | -------- | --- | ------------------------------------- |
+| Clock Intro                   | 0     | 5        | 5   | Zoom in on the clock                  |
+| Scene 1: Spring               | 5     | 15       | 20  | Lively environment, old-style objects |
+| Clock Transition 1            | 20    | 5        | 25  | Slow clock zoom                       |
+| Scene 2: Summer               | 25    | 15       | 40  | Modern elements begin to appear       |
+| Clock Transition 2            | 40    | 5        | 45  | Clock fast-forward                    |
+| Scene 3: Autumn               | 45    | 15       | 60  | Slight decay, older atmosphere        |
+| Clock Transition 3            | 60    | 6        | 66  | Clock stops                           |
+| Scene 4: Winter (Main)        | 66    | 24       | 90  | Abandonment and memory                |
+| Camera returns to Spring Pose | 90    | 0        | 90  | Reset to earlier camera frame         |
+| Summer Flashback              | 90    | 8        | 98  | Short summer memory                   |
+| Return to Winter              | 98    | 7        | 105 | Back to final winter state            |
 
-| ➤ **Total**      | **45 sec** |
+
+| ➤ **Total**      | **105 sec** |
 
 ---
